@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tharushi Nisansala</h1>
 <h3 align="center">A University student from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nizz15&label=Profile%20views&color=0e75b6&style=flat" alt="nizz15" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nizz15&label=Profile%20views&color=0e75b6&style=flat" alt="nizz15" /> </p>
 
 - 🌱 I’m currently learning **ICT**
 
