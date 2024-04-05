@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A University student from Sri lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nizz15&label=Profile%20views&color=0e75b6&style=flat" alt="nizz15" /> </p>
-___
+
 - 🌱 I’m currently learning **ICT**
 
 - 👨‍💻 I'm undergraduate [uva wellassa university](uva wellassa university)
@@ -28,6 +28,19 @@ ___
 
 - 📫 How to reach me **nisansalatharushi28@gmail.com**
 
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
+
+
+-----
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tharushi-nisansala-5818982a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharushi-nisansala-5818982a6" height="30" width="40" /></a>
