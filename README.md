@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tharushi Nisansala</h1>
+<h1 align="center">Tharushi Nisansala</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" alt="Welcome Animation" width="600px">
+</p>
+
 <h3 align="center">A University student from Sri Lanka</h3>
 
 <p align="center">
