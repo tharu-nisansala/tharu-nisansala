@@ -1,10 +1,10 @@
-### Hi there 👋
-<h1 align="center">Tharushi Nisansala</h1>
+
+<h1 align="center">Hi there 👋 I'm Tharushi Nisansala</h1>
 
 <p align="center">
   <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300" alt="Girl working on computer" width="250px">
 </p>
-
+---
 <h3 align="center">A University student from Sri Lanka</h3>
 
 <p align="center">
