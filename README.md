@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Tharushi Nisansala</h1>
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="300" height="200" alt="Girl working on computer" width="25px"  border: 4px;>
+  <img align="center" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="300" height="200" alt="Girl working on computer" width="25px"  border: 10px;>
 </p>
 
 <h3 align="center">A University student from Sri Lanka</h3>
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **ICT**
 - 👨‍💻 I'm an undergraduate at **[Uva Wellassa University](https://www.uwu.ac.lk/)**
-- 💬 Ask me about **Web Development, Java**
+- 💬 Ask me about **Web Development, Software Development, Java **
 - 📫 How to reach me: **nisansalatharushi28@gmail.com**
 
 ---
