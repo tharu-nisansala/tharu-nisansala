@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm Tharushi Nisansala</h1>
 
 <p align="center">
-  <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="30" alt="Girl working on computer" width="25px">
+  <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="45" height="30" alt="Girl working on computer" width="25px">
 </p>
 
 <h3 align="center">A University student from Sri Lanka</h3>
