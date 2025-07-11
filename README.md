@@ -51,11 +51,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <!-- Express.js (Custom white logo on black background) -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="background-color: ; padding: 5px; border-radius: 5px;" />
-  <img width="512" height="512" alt="image" src="https://img.icons8.com/color/512/express-js.png" />
+  <img width="512" height="512" alt="image" src="[https://img.icons8.com/color/512/express-js.png](https://img.icons8.com/nolan/512/express-js.png)" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
-https://img.icons8.com/color/512/express-js.png
+
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
