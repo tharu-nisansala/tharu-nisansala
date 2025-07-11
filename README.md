@@ -50,7 +50,9 @@
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   <!-- Express.js (Custom white logo on black background) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="background-color: black; padding: 5px; border-radius: 5px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" style="background-color: ; padding: 5px; border-radius: 5px;" />
+  <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d696de0c-dc97-420c-84ff-43951a3d536f" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
 
