@@ -15,8 +15,9 @@
 
 - 🌱 I’m currently learning **ICT**
 - 👨‍💻 I'm an undergraduate at **[Uva Wellassa University](https://www.uwu.ac.lk/)**
-- 💬 Ask me about **Web Development, Software Development, Java **
+- 💬 Ask me about **Web Development, Software Development, Java**
 - 📫 How to reach me: **nisansalatharushi28@gmail.com**
+- ✍️ Check out my blog on Blogger: [My Blog](https://nisansalajayarathna.blogspot.com/)
 
 ---
 
